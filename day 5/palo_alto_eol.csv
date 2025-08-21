@@ -1,0 +1,63 @@
+vendor,productName,EOL Date,resource,Recommended replacement
+Palo Alto,"PA-7000 Series
+(PAN-PA-7000-100G-NPC-A,
+PAN-PA-7000-LFC-A,
+PAN-PA-7000-DPC-A,
+PAN-PA-7080-AC-SYS,
+PAN-PA-7080-DC-SYS,
+PAN-PA-7050-AC-SYS,
+PAN-PA-7050-DC-SYS,
+PAN-PA-7050-SMC-B,
+PAN-PA-7080-SMC-B,
+PAN-PA-7050-SMC-B-SYS-UPG,
+PAN-PA-7080-SMC-B-SYS-UPG,
+PAN-PA-7000-LFC-A-SYS-UPG)",31-12-2030,https://www.paloaltonetworks.com/resources/datasheets/pa-7000-series,"PA-7500
+PA-5450"
+Palo Alto,PA-220R,31-01-2030,https://docs.paloaltonetworks.com/hardware/pa-220r-hardware-reference,PA-400R Series
+Palo Alto,PAN-2.5IN-HDD-2TB-PAIR,31-08-2028,https://www.paloaltonetworks.com/resources/datasheets/pa-5200-series-specsheet,PAN-2.5IN-SSD-1.92TB-PAIR
+Palo Alto,PAN-QSFP-40GBASE-LM4,16-05-2029,https://www.paloaltonetworks.com/resources/datasheets/key-specs-for-paloalto-interface-transceivers,"PAN-QSFP40G- BASE-LR4
+PAN-QSFP40G- BASE-BIDI"
+Palo Alto,"PA-800 Series
+(PA-820, PA-850)
+(PA-820-ZTP, PA-850-ZTP)",31-08-2029,https://docs.paloaltonetworks.com/hardware/pa-800-hardware-reference,PA-1400 Series
+Palo Alto,WF-500,31-12-2028,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/subscriptions/wf-500-wildfire-appliance,WF-500-B
+Palo Alto,"PA-3200 Series
+(PA-3220, PA-3250, PA-3260)
+(PA-3220-ZTP, PA-3250-ZTP, PA-3260-ZTP)",31-08-2028,https://www.paloaltonetworks.com/resources/datasheets/pa-3200-series,PA-3400 Series
+Palo Alto,"PA-5200 Series
+(PA-5220, PA-5250, PA-5260, PA-5280)",31-08-2028,https://www.paloaltonetworks.com/resources/datasheets/pa-5200-series-specsheet,PA-5400 Series
+Palo Alto,PA-220,31-01-2028,https://www.paloaltonetworks.com/resources/datasheets/pa-220-specsheet,PA-400 Series
+Palo Alto,ION 7000,01-02-2027,https://docs.paloaltonetworks.com/hardware/ion-7000-hardware-reference.html,
+Palo Alto,"PA-7000-20GXM-NPC
+PA-7000-20GQXM-NPC",08-05-2026,https://www.paloaltonetworks.com/content/pan/en_US/network-security/next-generation-firewall/pa-7000-series,"PA-7000-100G-NPC-A
+PA-7000-DPC-A"
+Palo Alto,"PA-7050-SMC
+PA-7080-SMC
+PA-7000-LPC",28-02-2026,https://www.paloaltonetworks.com/content/pan/en_US/network-security/next-generation-firewall/pa-7000-series,"PA-7050-SMC-B
+PA-7080-SMC-B
+PA-7000-LFC"
+Palo Alto,"K2-Series
+(PA-5280-K2, PA-7050-K2, PA-7080-K2)",28-02-2026,https://www.paloaltonetworks.com/content/pan/en_US/resources/datasheets/k2-series,"PA-5445
+PA-7500"
+Palo Alto,M-500,28-02-2025,https://www.paloaltonetworks.com/content/pan/en_US/products/management/panorama.html,"M-300
+M-700"
+Palo Alto,"PA-3000 Series
+(PA-3020, PA-3050, PA-3060)",31-10-2024,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-3000-series,PA-3400 Series
+Palo Alto,"PA-5000 Series
+(PA-5020, PA-5050, PA-5060)",31-01-2024,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-5000-series,PA-5400 Series
+Palo Alto,"PA-7000-20G-NPC
+PA-7000-20GQ-NPC",31-01-2024,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-7000-series.html,"PA-7000-100G-NPC-A
+PA-7000-DPC-A"
+Palo Alto,PA-200,31-10-2023,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-200,PA-400 Series
+Palo Alto,PA-500,31-10-2023,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-500,PA-400 Series
+Palo Alto,M-100,31-10-2023,https://www.paloaltonetworks.com/content/pan/en_US/products/management/panorama,M-300
+Palo Alto,"PA-2000 Series
+(PA-2020, PA-2050)",30-04-2020,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-2000-series.html,PA-1400 Series
+Palo Alto,"PA-4000 Series
+(PA-4020, PA-4050, PA-4060)",30-04-2019,https://www.paloaltonetworks.com/content/pan/en_US/products/secure-the-network/next-generation-firewall/pa-4000-series.html,PA-1400 Series
+Palo Alto,GP-100,30-04-2021,https://www.paloaltonetworks.com/content/pan/en_US/products/globalprotect/subscription,
+Palo Alto,"LightCyber Magna Detector
+(D-300, D-500, D-1000)",31-12-2020,https://www.paloaltonetworks.com/resources/datasheets/cortex-xdr,
+Palo Alto,"LightCyber Magna Probe
+(P-50T)",31-12-2020,https://www.paloaltonetworks.com/resources/datasheets/cortex-xdr,
+Palo Alto,LightCyber Magna Master (M-100),31-12-2020,https://www.paloaltonetworks.com/resources/datasheets/cortex-xdr,
